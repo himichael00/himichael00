@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himichael00&label=Profile%20views&color=0e75b6&style=flat" alt="himichael00" /> </p>
 
-- 🌱 I’m currently learning **PHP, Kotlin, Yii Framework**
+- 🌱 I’m currently learning **PHP, Yii Framework, Laravel, Javascript, Java Spring**
 
 - 👨‍💻 All of my projects are available at [https://himichael00.github.io/portofolio/](https://himichael00.github.io/portofolio/)
 
